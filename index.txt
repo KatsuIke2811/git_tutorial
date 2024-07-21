@@ -3,3 +3,5 @@ GIT tutorial
 git sttaus
 
 git diff
+
+git commit --amend
