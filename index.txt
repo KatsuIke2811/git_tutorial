@@ -5,3 +5,5 @@ git sttaus
 git diff
 
 git commit --amend
+
+git merge
